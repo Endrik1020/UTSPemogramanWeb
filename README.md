@@ -607,6 +607,9 @@ File psd kita convert menjadi html .
 ![9](https://user-images.githubusercontent.com/81820421/117517038-fc85a580-afc4-11eb-8aec-64fb5ca6cfc9.JPG)
 ![10](https://user-images.githubusercontent.com/81820421/117517046-fe4f6900-afc4-11eb-9336-160b5622a6cf.JPG)
 
+# Kita bisa lakukan explore design sesuka kalian .
+Buat yang ingin membuat web kita bisa lakukan explore design sesuka kalian dan edit informasi sesuai isi web nya. 
+
 
 
 
